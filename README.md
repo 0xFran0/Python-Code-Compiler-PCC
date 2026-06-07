@@ -16,5 +16,6 @@ To execute a script and apply the real-time auto-correction engine, run the comm
 pcc my_script.py -o my_binary
 ```
 ### Developer Notes
-
+```bash
 Is a AOT compler and a DTBC compiler. Good bye!
+```
