@@ -119,4 +119,4 @@ int main(int argc, char *argv[]) {
     printf("[PCC SUCCESS] Compilación terminada. Generado '%s' (%d bytes ocupados por código).\n", archivo_salida, bytes_codigo);
     return 0;
 }
-note:The code cant have error, I am a small dev :c
+note:The code can have error, I am a small dev :c
